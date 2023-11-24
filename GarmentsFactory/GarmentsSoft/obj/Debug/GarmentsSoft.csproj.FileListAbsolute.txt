@@ -1,0 +1,45 @@
+D:\9th Semester\ADVANCE DATABASE MANAGEMENT SYSTEM\GarmentsSoft\bin\Debug\GarmentsSoft.exe.config
+D:\9th Semester\ADVANCE DATABASE MANAGEMENT SYSTEM\GarmentsSoft\bin\Debug\GarmentsSoft.exe
+D:\9th Semester\ADVANCE DATABASE MANAGEMENT SYSTEM\GarmentsSoft\bin\Debug\GarmentsSoft.pdb
+D:\9th Semester\ADVANCE DATABASE MANAGEMENT SYSTEM\GarmentsSoft\obj\Debug\GarmentsSoft.csproj.AssemblyReference.cache
+D:\9th Semester\ADVANCE DATABASE MANAGEMENT SYSTEM\GarmentsSoft\obj\Debug\GarmentsSoft.csproj.SuggestedBindingRedirects.cache
+D:\9th Semester\ADVANCE DATABASE MANAGEMENT SYSTEM\GarmentsSoft\obj\Debug\GarmentsSoft.Home.resources
+D:\9th Semester\ADVANCE DATABASE MANAGEMENT SYSTEM\GarmentsSoft\obj\Debug\GarmentsSoft.Properties.Resources.resources
+D:\9th Semester\ADVANCE DATABASE MANAGEMENT SYSTEM\GarmentsSoft\obj\Debug\GarmentsSoft.csproj.GenerateResource.cache
+D:\9th Semester\ADVANCE DATABASE MANAGEMENT SYSTEM\GarmentsSoft\obj\Debug\GarmentsSoft.csproj.CoreCompileInputs.cache
+D:\9th Semester\ADVANCE DATABASE MANAGEMENT SYSTEM\GarmentsSoft\obj\Debug\GarmentsSoft.exe
+D:\9th Semester\ADVANCE DATABASE MANAGEMENT SYSTEM\GarmentsSoft\obj\Debug\GarmentsSoft.pdb
+D:\9th Semester\ADVANCE DATABASE MANAGEMENT SYSTEM\GarmentsSoft\obj\Debug\GarmentsSoft.Forms.Dashboard.resources
+D:\9th Semester\ADVANCE DATABASE MANAGEMENT SYSTEM\GarmentsSoft\obj\Debug\GarmentsSoft.Forms.Order.resources
+D:\9th Semester\ADVANCE DATABASE MANAGEMENT SYSTEM\GarmentsSoft\obj\Debug\GarmentsSoft.Forms.Reports.resources
+D:\9th Semester\ADVANCE DATABASE MANAGEMENT SYSTEM\GarmentsSoft\obj\Debug\GarmentsSoft.Forms.Settings.resources
+D:\9th Semester\ADVANCE DATABASE MANAGEMENT SYSTEM\GarmentsSoft\obj\Debug\GarmentsSoft.Forms.Client.resources
+D:\9th Semester\ADVANCE DATABASE MANAGEMENT SYSTEM\GarmentsSoft\obj\Debug\GarmentsSoft.Forms.Employee.resources
+D:\9th Semester\ADVANCE DATABASE MANAGEMENT SYSTEM\GarmentsSoft\obj\Debug\GarmentsSoft.Forms.Owner.resources
+D:\9th Semester\ADVANCE DATABASE MANAGEMENT SYSTEM\GarmentsSoft\obj\Debug\GarmentsSoft.Forms.Manager.resources
+D:\9th Semester\ADVANCE DATABASE MANAGEMENT SYSTEM\GarmentsSoft\obj\Debug\GarmentsSoft.Forms.Factory.resources
+D:\9th Semester\ADVANCE DATABASE MANAGEMENT SYSTEM\GarmentsSoft\obj\Debug\GarmentsSoft.Forms.Product.resources
+I:\9th Semester\Advance Database Management System\Final Term Project\GarmentsFactory\GarmentsSoft\bin\Debug\GarmentsSoft.exe.config
+I:\9th Semester\Advance Database Management System\Final Term Project\GarmentsFactory\GarmentsSoft\bin\Debug\GarmentsSoft.exe
+I:\9th Semester\Advance Database Management System\Final Term Project\GarmentsFactory\GarmentsSoft\bin\Debug\GarmentsSoft.pdb
+I:\9th Semester\Advance Database Management System\Final Term Project\GarmentsFactory\GarmentsSoft\obj\Debug\GarmentsSoft.csproj.AssemblyReference.cache
+I:\9th Semester\Advance Database Management System\Final Term Project\GarmentsFactory\GarmentsSoft\obj\Debug\GarmentsSoft.csproj.SuggestedBindingRedirects.cache
+I:\9th Semester\Advance Database Management System\Final Term Project\GarmentsFactory\GarmentsSoft\obj\Debug\GarmentsSoft.Forms.Employee.resources
+I:\9th Semester\Advance Database Management System\Final Term Project\GarmentsFactory\GarmentsSoft\obj\Debug\GarmentsSoft.Forms.Dashboard.resources
+I:\9th Semester\Advance Database Management System\Final Term Project\GarmentsFactory\GarmentsSoft\obj\Debug\GarmentsSoft.Forms.Order.resources
+I:\9th Semester\Advance Database Management System\Final Term Project\GarmentsFactory\GarmentsSoft\obj\Debug\GarmentsSoft.Forms.Owner.resources
+I:\9th Semester\Advance Database Management System\Final Term Project\GarmentsFactory\GarmentsSoft\obj\Debug\GarmentsSoft.Forms.Factory.resources
+I:\9th Semester\Advance Database Management System\Final Term Project\GarmentsFactory\GarmentsSoft\obj\Debug\GarmentsSoft.Forms.Product.resources
+I:\9th Semester\Advance Database Management System\Final Term Project\GarmentsFactory\GarmentsSoft\obj\Debug\GarmentsSoft.Forms.Reports.resources
+I:\9th Semester\Advance Database Management System\Final Term Project\GarmentsFactory\GarmentsSoft\obj\Debug\GarmentsSoft.Forms.Settings.resources
+I:\9th Semester\Advance Database Management System\Final Term Project\GarmentsFactory\GarmentsSoft\obj\Debug\GarmentsSoft.Forms.Manager.resources
+I:\9th Semester\Advance Database Management System\Final Term Project\GarmentsFactory\GarmentsSoft\obj\Debug\GarmentsSoft.Forms.Client.resources
+I:\9th Semester\Advance Database Management System\Final Term Project\GarmentsFactory\GarmentsSoft\obj\Debug\GarmentsSoft.Home.resources
+I:\9th Semester\Advance Database Management System\Final Term Project\GarmentsFactory\GarmentsSoft\obj\Debug\GarmentsSoft.Properties.Resources.resources
+I:\9th Semester\Advance Database Management System\Final Term Project\GarmentsFactory\GarmentsSoft\obj\Debug\GarmentsSoft.csproj.GenerateResource.cache
+I:\9th Semester\Advance Database Management System\Final Term Project\GarmentsFactory\GarmentsSoft\obj\Debug\GarmentsSoft.csproj.CoreCompileInputs.cache
+I:\9th Semester\Advance Database Management System\Final Term Project\GarmentsFactory\GarmentsSoft\obj\Debug\GarmentsSoft.exe
+I:\9th Semester\Advance Database Management System\Final Term Project\GarmentsFactory\GarmentsSoft\obj\Debug\GarmentsSoft.pdb
+D:\AIUB\Projects\Final Term Project\GarmentsFactory\GarmentsSoft\obj\Debug\GarmentsSoft.csproj.AssemblyReference.cache
+D:\AIUB\Projects\Final Term Project\GarmentsFactory\GarmentsSoft\obj\Debug\GarmentsSoft.exe
+D:\AIUB\Projects\Final Term Project\GarmentsFactory\GarmentsSoft\obj\Debug\GarmentsSoft.pdb
